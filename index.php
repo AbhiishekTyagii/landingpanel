@@ -145,3 +145,68 @@
         </div>
 
       </div>
+  </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4 align-items-center justify-content-between">
+
+          <div class="col-xl-5" data-aos="fade-up" data-aos-delay="200">
+            <span class="about-meta">About IntelliTraffic </span>
+            <h2 class="about-title">Intelligent Traffic Optimization</h2>
+            <p class="about-description">Our system uses advanced computer vision and machine learning to analyze traffic patterns in real-time, automatically adjusting signal timings to reduce congestion and improve flow.</p>
+
+            <div class="row feature-list-wrapper">
+              <div class="col-md-6">
+                <ul class="feature-list">
+                  <li><i class="bi bi-check-circle-fill"></i>Real-time Adaptation</li>
+                  <li><i class="bi bi-check-circle-fill"></i>Emergency Priority</li>
+                  <li><i class="bi bi-check-circle-fill"></i>Data-Driven Insights</li>
+                </ul>
+              </div>
+              
+            </div>
+
+            <div class="info-wrapper">
+              <div class="row gy-4">
+                <div class="col-lg-5">
+                  <div class="profile d-flex align-items-center gap-3">
+                    <img src="assets/ud.png" alt="CEO Profile" class="profile-image">
+                    <div>
+                      <h4 class="profile-name">Usualdev</h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-7">
+                  <div class="contact-info d-flex align-items-center gap-2">
+                    <i class="bi bi-mail"></i>
+                    <div>
+                      <p class="contact-label">Email</p>
+                      <p class="contact-number">developers.usualdev@gmail.com</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="image-wrapper">
+              <div class="images position-relative" data-aos="zoom-out" data-aos-delay="400">
+                <img src="https://media.tomtom.com/f/178460/1280x720/8e24e5c57b/route-monitoring_feature_04_desktop-1280x720px.jpg" alt="Business Meeting" class="img-fluid main-image rounded-4">
+                <img src="https://media.tomtom.com/f/178460/1280x720/3f30afa113/hero-public-sector.jpg" alt="Team Discussion" class="img-fluid small-image rounded-4">
+              </div>
+              <div class="experience-badge floating">
+                <h3>Live<span> Traffic Flow</span></h3>
+                <p>Optimized in Real time</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
