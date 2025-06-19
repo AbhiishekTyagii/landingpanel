@@ -361,3 +361,47 @@
       </div>
 
     </section><!-- /Features Section -->
+        <!-- Features Cards Section -->
+    <section id="features-cards" class="features-cards section">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+            <div class="feature-box orange">
+             <i class="bi bi-cpu"></i>
+              <h4>Real-Time Traffic Optimization</h4>
+              <p>AI analyzes live data to adjust signals and prioritize emergency vehicles instantly.</p>
+            </div>
+          </div><!-- End Feature Borx-->
+
+          <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+            <div class="feature-box blue">
+              <i class="bi bi-graph-up-arrow"></i>
+              <h4>	Predictive Congestion Management</h4>
+              <p>Machine learning forecasts traffic build-up and suggests alternate routes before jams occur.</p>
+            </div>
+          </div><!-- End Feature Borx-->
+
+          <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+            <div class="feature-box green">
+            <i class="bi bi-arrow-repeat"></i>
+              <h4>Adaptive Signal Control</h4>
+              <p>Smart signals dynamically change based on vehicle flow, reducing wait times and improving flow.</p>
+            </div>
+          </div><!-- End Feature Borx-->
+
+          <div class="col-xl-3 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+            <div class="feature-box red">
+             <i class="bi bi-map-fill"></i>
+              <h4>Location-Based Intelligence</h4>
+              <p>Geospatial data powers smarter decisions by mapping hotspots, delays, and optimal routes.</p>
+            </div>
+          </div><!-- End Feature Borx-->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Features Cards Section -->
