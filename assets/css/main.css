@@ -219,23 +219,7 @@ h6 {
   .navmenu li {
     position: relative;
   }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
   .navmenu a,
   .navmenu a:focus {
     color: var(--nav-color);
@@ -340,23 +324,7 @@ h6 {
     padding: 0;
     z-index: 9997;
   }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
   .navmenu ul {
     display: none;
     list-style: none;
@@ -635,23 +603,7 @@ h6 {
   font-weight: 700;
   margin-bottom: 10px;
 }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
 .page-title .breadcrumbs ol {
   display: flex;
   flex-wrap: wrap;
@@ -905,23 +857,7 @@ section,
   gap: 1rem;
   padding: 2rem;
 }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
 .hero .stat-item .stat-icon {
   flex-shrink: 0;
   width: 64px;
@@ -1117,23 +1053,7 @@ section,
     border: 0;
   }
 }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
 .about .image-wrapper .experience-badge {
   position: absolute;
   bottom: 5%;
@@ -1303,23 +1223,7 @@ section,
   --default-color: #555;
   --heading-color: #333;
 }
-.php-email-form .sent-message {
-  display: none;
-  color: #ffffff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
 
-.php-email-form .loading {
-  display: none;
-  background: var(--surface-color);
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
 .features-cards .feature-box {
   height: 100%;
   padding: 40px 30px;
