@@ -56,3 +56,33 @@
 
     </div>
   </header>
+ <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="hero-content" data-aos="fade-up" data-aos-delay="200">
+              <div class="company-badge mb-4">
+                <i class="bi bi-gear-fill me-2"></i>
+               AI-Powered Traffic Management
+              </div>
+
+              <h1 class="mb-4">
+                Smarter <br>
+                Cities Start with
+
+               
+                <span class="accent-text">Smarter Traffic</span>
+              </h1>
+
+              <p class="mb-4 mb-md-5">
+                Revolutionizing urban mobility with AI-powered traffic signal optimization that reduces congestion and saves lives.
+              </p>
+
+             
+            </div>
+          </div>
