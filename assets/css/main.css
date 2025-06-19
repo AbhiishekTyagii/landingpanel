@@ -2257,5 +2257,7 @@ section,
 
 
 .starter-section {
-  
+  font-size: 20px;
+  margin-right: 8px;
+  color: var(--accent-color);
 }
