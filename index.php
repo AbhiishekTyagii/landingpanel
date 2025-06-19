@@ -210,3 +210,154 @@
       </div>
 
     </section>
+        <!-- Features Section -->
+    <section id="features" class="features section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Features</h2>
+        <p>Comprehensive solutions designed to address all aspects of urban traffic challenges</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="d-flex justify-content-center">
+
+          <ul class="nav nav-tabs" data-aos="fade-up" data-aos-delay="100">
+
+            <li class="nav-item">
+              <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+                <h4>AI-Powered Traffic Analysis</h4>
+              </a>
+            </li><!-- End tab nav item -->
+
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
+                <h4>Dynamic Signal Adjustment</h4>
+              </a><!-- End tab nav item -->
+
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
+                <h4>Geospatial Intelligence</h4>
+              </a>
+            </li><!-- End tab nav item -->
+    <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
+                <h4>Emergency Vehicle Prioritization</h4>
+              </a>
+            </li><!-- End tab nav item -->
+<li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-5">
+                <h4>Congestion Prediction</h4>
+              </a>
+            </li><!-- End tab nav item -->
+
+          </ul>
+
+        </div>
+
+        <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="tab-pane fade active show" id="features-tab-1">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                <h3>AI-Powered Traffic Analysis</h3>
+                <p class="fst-italic">
+                  AI-Powered Traffic Analysis uses real-time data and machine learning to monitor, predict, and optimize traffic flow efficiently.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Data Collection: Gathers real-time traffic data from sensors, cameras, GPS, and mobile devices.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>AI Processing: Uses machine learning to detect patterns, predict congestion, and identify incidents.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Actionable Insights: Delivers alerts and recommendations to optimize signal timing, routes, and traffic flow.</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+  <img src="https://media.tomtom.com/f/178460/1280x720/7dbe6e4e3f/od_header_1920x720px-desktop.jpg" alt="" class="img-fluid" style="border-radius: 20px;">
+</div>
+            </div>
+          </div><!-- End tab content item -->
+
+          <div class="tab-pane fade" id="features-tab-2">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                <h3>Dynamic Signal Adjustment</h3>
+                <p class="fst-italic">
+                  Dynamic Signal Adjustment automatically changes traffic signal timings based on real-time traffic conditions to reduce congestion.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Real-Time Monitoring: Continuously tracks vehicle flow using sensors or AI cameras.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Adaptive Timing: Adjusts green/red light durations dynamically based on traffic density.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Optimized Flow: Reduces wait times and improves traffic movement efficiency at intersections.</span></li>
+                                </ul>
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+  <img src="https://media.tomtom.com/f/178460/1280x720/7dbe6e4e3f/od_header_1920x720px-desktop.jpg" alt="" class="img-fluid" style="border-radius: 20px;">
+</div>
+            </div>
+          </div><!-- End tab content item -->
+
+          <div class="tab-pane fade" id="features-tab-3">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                <h3>Geospatial Intelligence</h3>
+                <p class="fst-italic">
+                 Geospatial Intelligence (GEOINT) combines geographic data and analytics to understand patterns, locations, and relationships for informed decision-making.
+
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Data Integration: Collects satellite imagery, maps, and GPS data from various sources.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Spatial Analysis: Uses AI and GIS tools to analyze terrain, movement, and spatial patterns.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>	Strategic Insights: Supports planning, surveillance, and emergency response through location-based intelligence.</span></li>
+                </ul>
+                
+              </div>
+             <div class="col-lg-6 order-1 order-lg-2 text-center">
+  <img src="https://media.tomtom.com/f/178460/1280x720/7dbe6e4e3f/od_header_1920x720px-desktop.jpg" alt="" class="img-fluid" style="border-radius: 20px;">
+</div>
+            </div>
+          </div><!-- End tab content item -->
+
+          <div class="tab-pane fade" id="features-tab-4">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                <h3>Emergency Vehicle Prioritization</h3>
+                <p class="fst-italic">
+                 Emergency Vehicle Prioritization ensures fast, uninterrupted passage for ambulances, fire trucks, and police by adjusting traffic signals in real time.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Vehicle Detection: Identifies emergency vehicles via GPS, RFID, or siren-based sensors.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Signal Preemption: Overrides normal traffic lights to give green signals along the vehicle’s route.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Traffic Coordination: Syncs nearby signals to clear paths and reduce emergency response time.</span></li>
+                </ul>
+              
+              </div>
+              <div class="col-lg-6 order-1 order-lg-2 text-center">
+  <img src="https://media.tomtom.com/f/178460/1280x720/7dbe6e4e3f/od_header_1920x720px-desktop.jpg" alt="" class="img-fluid" style="border-radius: 20px;">
+</div>
+            </div>
+          </div><!-- End tab content item -->
+<div class="tab-pane fade" id="features-tab-5">
+            <div class="row">
+              <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
+                <h3>Congestion Prediction</h3>
+                <p class="fst-italic">
+                  Congestion Prediction uses real-time and historical traffic data to forecast traffic build-up before it happens.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check2-all"></i> <span>Congestion Prediction uses real-time and historical traffic data to forecast traffic build-up before it happens.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>	Pattern Analysis: Uses machine learning to detect trends and predict future congestion points.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Proactive Alerts: Sends early warnings and suggests alternate routes to avoid traffic jams.</span></li>
+                </ul>
+                
+              </div>
+             <div class="col-lg-6 order-1 order-lg-2 text-center">
+  <img src="https://media.tomtom.com/f/178460/1280x720/7dbe6e4e3f/od_header_1920x720px-desktop.jpg" alt="" class="img-fluid" style="border-radius: 20px;">
+</div>
+            </div>
+          </div><!-- End tab content item -->
+        </div>
+
+      </div>
+
+    </section><!-- /Features Section -->
