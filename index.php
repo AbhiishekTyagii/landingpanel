@@ -86,3 +86,62 @@
              
             </div>
           </div>
+          <div class="col-lg-6">
+ <div class="hero-image" data-aos="zoom-out" data-aos-delay="300">
+  <video class="img-fluid" autoplay muted loop playsinline style="border-radius: 20px; overflow: hidden;">
+    <source src="assets/s.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+</div>
+          </div>
+        </div>
+
+        <div class="row stats-row gy-4 mt-5" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-3 col-md-6">
+            <div class="stat-item">
+              <div class="stat-icon">
+                <i class="bi bi-trophy"></i>
+              </div>
+              <div class="stat-content">
+                <h4>Netalytics</h4>
+                <p class="mb-0">Use accurate speed and time data to improve transport models and decisions.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="stat-item">
+              <div class="stat-icon">
+                <i class="bi bi-briefcase"></i>
+              </div>
+              <div class="stat-content">
+                <h4>Road Performance Monitoring</h4>
+                <p class="mb-0">Track seasonal, event-based, or incident-related traffic changes.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="stat-item">
+              <div class="stat-icon">
+                <i class="bi bi-graph-up"></i>
+              </div>
+              <div class="stat-content">
+                <h4>Congetion Mitigation</h4>
+                <p class="mb-0">Prioritize traffic solutions by identifying congestion hotspots.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="stat-item">
+              <div class="stat-icon">
+                <i class="bi bi-award"></i>
+              </div>
+              <div class="stat-content">
+                <h4>Mobility Planning</h4>
+                <p class="mb-0">Use accurate speed and time data to improve transport models and decisions.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
